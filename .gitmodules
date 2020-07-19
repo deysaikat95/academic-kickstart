@@ -1,3 +1,6 @@
 [submodule "themes/academic"]
 	path = themes/academic
 	url = https://github.com/gcushen/hugo-academic.git
+[submodule "myWebsite"]
+	path = myWebsite
+	url = git@github.com:deysaikat95/deysaikat95.github.io.git
